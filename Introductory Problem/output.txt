@@ -1,21 +1,5 @@
-20
-aaabc
-aaacb
-aabac
-aabca
-aacab
-aacba
-abaac
-abaca
-abcaa
-acaab
-acaba
-acbaa
-baaac
-baaca
-bacaa
-bcaaa
-caaab
-caaba
-cabaa
-cbaaa
+YES
+6
+1 4 5 8 9 12 
+6
+2 3 6 7 10 11 
